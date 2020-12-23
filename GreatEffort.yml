@@ -1,0 +1,4 @@
+---
+name: test file
+vars:
+  - var1: "hello"
