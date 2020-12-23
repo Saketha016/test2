@@ -1,5 +1,10 @@
 Created a file to push on to the test2 repository.
 
+<<<<<<< HEAD
 Hell
 
 HI Team
+=======
+Hello
+Hello1234
+>>>>>>> 7be6e7c133be090dc0b3bfeb4a78e882946caa30
